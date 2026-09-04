@@ -1,0 +1,17 @@
+{
+  "author": "Eros",
+  "version": "1.0.0.0",
+  "description": "",
+  "supportedJobs": [
+    {
+      "job": "SAM",
+      "contentScope": "Unspecified"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.9.8",
+  "downloadUrl": "https://github.com/Eros001377/ErosACR-Release/releases/download/v1.0.0/Eros.zip",
+  "sourceRepositoryUrl": "",
+  "sponsorUrl": "https://afdian.com/a/Erossss",
+  "sha256": "bd1558d3ce6fa24e966e8a7feebb4a0eb272e5fb9baf8bdeb2c9563daf166d40"
+}
