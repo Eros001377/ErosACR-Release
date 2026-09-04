@@ -1,0 +1,17 @@
+{
+  "author": "Eros",
+  "version": "1.0.0.0",
+  "description": "武士 ACR：100/90/80/70 起手轴，自动减伤与资源管理，QT 面板开关",
+  "supportedJobs": [
+    {
+      "job": "SAM",
+      "contentScope": "Unspecified"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.9.8",
+  "downloadUrl": "https://raw.githubusercontent.com/Eros001377/ErosACR-Release/refs/heads/main/Eros.zip",
+  "sourceRepositoryUrl": "https://github.com/Eros001377/ErosACR-Release",
+  "sponsorUrl": "https://github.com/Eros001377/ErosACR-Release",
+  "sha256": "0d9b0a67a13576e1b55ca55e4206afb63d8f0bcd166ad4cee8ebd0b33415905c"
+}
