@@ -6,6 +6,10 @@
     {
       "job": "SAM",
       "contentScope": "Unspecified"
+    },
+    {
+      "job": "RPR",
+      "contentScope": "Unspecified"
     }
   ],
   "apiVersion": 15,
