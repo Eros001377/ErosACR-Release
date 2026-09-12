@@ -1,6 +1,6 @@
 {
   "author": "Eros",
-  "version": "1.1.2.5",
+  "version": "1.1.2.7",
   "description": "\u751F\u6B7B\u8F6E\u56DE\u4E00\u95E8\u5F00\uFF0C\u518D\u8D77\u6740\u52AB\u6D17\u94C5\u534E",
   "supportedJobs": [
     {
@@ -14,8 +14,8 @@
   ],
   "apiVersion": 15,
   "referencePromeVersion": "1.5.9.8",
-  "downloadUrl": "https://github.com/Eros001377/ErosACR-Release/releases/download/v1.1.2.5/Eros.zip",
+  "downloadUrl": "https://github.com/Eros001377/ErosACR-Release/releases/download/v1.1.2.7/Eros.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "https://afdian.com/a/Erossss",
-  "sha256": "e69cc922c4c29f0faa210b7eb8fb51ede806f25f726a432ec2f4511e73ebd70e"
+  "sha256": "ab026dcb6212915b92fe476fa7b528a0d079d2d1b325108dd20e54c6f3b0f61f"
 }
