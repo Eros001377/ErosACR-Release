@@ -1,7 +1,7 @@
 {
   "author": "Eros",
-  "version": "1.1.6.9",
-  "description": "\u751F\u6B7B\u8F6E\u56DE\u4E00\u95E8\u5F00\uFF0C\u518D\u8D77\u6740\u52AB\u6D17\u94C5\u534E",
+  "version": "1.1.7.0",
+  "description": "\u751f\u6b7b\u8f6e\u56de\u4e00\u95e8\u5f00\uff0c\u518d\u8d77\u6740\u52ab\u6d17\u94c5\u534e",
   "supportedJobs": [
     {
       "job": "SAM",
@@ -14,8 +14,8 @@
   ],
   "apiVersion": 15,
   "referencePromeVersion": "1.5.9.8",
-  "downloadUrl": "https://github.com/Eros001377/ErosACR-Release/releases/download/v1.1.6.9/Eros.zip",
+  "downloadUrl": "https://github.com/Eros001377/ErosACR-Release/releases/download/v1.1.7.0/Eros.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "https://afdian.com/a/Erossss",
-  "sha256": "7b91191c0e734e49dedab3ef98be5f13ba33e8f191851aba471b1dd67882b4ee"
+  "sha256": "1c551f4adfde023a32d2e676254add3151de85f0ab749fd8cd5b6550dee28435"
 }
